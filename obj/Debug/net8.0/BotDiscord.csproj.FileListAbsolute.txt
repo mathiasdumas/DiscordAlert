@@ -1,0 +1,14 @@
+/Users/barbara/Projects/BotDiscord/BotDiscord/bin/Debug/net8.0/BotDiscord
+/Users/barbara/Projects/BotDiscord/BotDiscord/bin/Debug/net8.0/BotDiscord.deps.json
+/Users/barbara/Projects/BotDiscord/BotDiscord/bin/Debug/net8.0/BotDiscord.runtimeconfig.json
+/Users/barbara/Projects/BotDiscord/BotDiscord/bin/Debug/net8.0/BotDiscord.dll
+/Users/barbara/Projects/BotDiscord/BotDiscord/bin/Debug/net8.0/BotDiscord.pdb
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.AssemblyInfoInputs.cache
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.AssemblyInfo.cs
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.dll
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/refint/BotDiscord.dll
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.pdb
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/BotDiscord.genruntimeconfig.cache
+/Users/barbara/Projects/BotDiscord/BotDiscord/obj/Debug/net8.0/ref/BotDiscord.dll
